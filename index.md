@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP secure coding practices-quick reference guide
 tags: example-tag
 level: 4
+type: documentation
 
 ---
 
