@@ -37,22 +37,22 @@ practices.
 **Download the current v2 (Stable) release:**
 
   - [English version
-    PDF](Media:OWASP_SCP_Quick_Reference_Guide_v2.pdf "wikilink")
+    PDF](/www-pdf-archive/OWASP_SCP_Quick_Reference_Guide_v2.pdf )
   - [English version MS
-    Word](Media:OWASP_SCP_Quick_Reference_Guide_v2.doc "wikilink")
+    Word](Media:OWASP_SCP_Quick_Reference_Guide_v2.doc )
 
 **Translations:**
 
   - [Brazilian Portuguese Translation
-    PDF](Media:OWASP_SCP_v1.3_pt-BR.pdf "wikilink")
+    PDF](/www-pdf-archive/OWASP_SCP_v1.3_pt-BR.pdf )
   - [Portugal Portuguese Translation
-    PDF](Media:OWASP_SCP_v1.3_pt-PT.pdf "wikilink")
+    PDF](/www-pdf-archive/OWASP_SCP_v1.3_pt-PT.pdf )
   - [Korean Translation
-    PDF](Media:2011%EB%85%846%EC%9B%94_OWASP_%EC%8B%9C%ED%81%90%EC%96%B4%EC%BD%94%EB%94%A9%EA%B7%9C%EC%B9%99_v2_KOR.pdf "wikilink")
+    PDF](/www-pdf-archive/2011%EB%85%846%EC%9B%94_OWASP_%EC%8B%9C%ED%81%90%EC%96%B4%EC%BD%94%EB%94%A9%EA%B7%9C%EC%B9%99_v2_KOR.pdf )
   - [Spanish Translation
-    doc](Media:OWASP_SCP_Quick_Reference_Guide_SPA.doc "wikilink")
+    doc](Media:OWASP_SCP_Quick_Reference_Guide_SPA.doc )
   - [Chinese Translation
-    PDF](Media:OWASP_SCP_Quick_Reference_Guide_%28Chinese%29.pdf "wikilink")
+    PDF](/www-pdf-archive/OWASP_SCP_Quick_Reference_Guide_%28Chinese%29.pdf )
 
 **Related Presentations:**
 This slide deck incorporates many concepts from the Quick reference
@@ -89,7 +89,7 @@ page.](https://lists.owasp.org/mailman/listinfo/owasp-secure-coding-practices)
 If you contribute to this Project, please add your name here
 **Project Lead:**
 
-  - [Keith Turpin](user:Keith_Turpin "wikilink")
+  - [Keith Turpin](user:Keith_Turpin )
 
 **Contributors:**
 \* Dan Kranz
@@ -119,7 +119,7 @@ If you contribute to this Project, please add your name here
 \* Canedo,Gerardo
 
   - Flores,Mauro
-  - [Hill,Alberto](user:Alberto_Daniel_Hill "wikilink")
+  - [Hill,Alberto](user:Alberto_Daniel_Hill )
   - Martinez,Mateo
   - Papaleo,Mauricio
   - Soarez,Nicolás
@@ -136,11 +136,11 @@ If you contribute to this Project, please add your name here
 __NOTOC__ <headertabs />
 
 [Secure Coding Practices - Quick Reference
-Guide](Category:OWASP_Project "wikilink")
-[Category:OWASP_Document](Category:OWASP_Document "wikilink")
+Guide](Category:OWASP_Project )
+[Category:OWASP_Document](Category:OWASP_Document )
 [Category:OWASP Best
-Practices](Category:OWASP_Best_Practices "wikilink")
-[Category:OWASP_Download](Category:OWASP_Download "wikilink") [OWASP
+Practices](Category:OWASP_Best_Practices )
+[Category:OWASP_Download](Category:OWASP_Download ) [OWASP
 Release Quality
-Document](Category:OWASP_Release_Quality_Document "wikilink")
-[Category:SAMM-SR-1](Category:SAMM-SR-1 "wikilink")
+Document](Category:OWASP_Release_Quality_Document )
+[Category:SAMM-SR-1](Category:SAMM-SR-1 )
