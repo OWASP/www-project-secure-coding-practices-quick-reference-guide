@@ -33,12 +33,9 @@ to help development teams quickly understand secure coding practices.
 
 ## Feedback and Participation
 
-I hope you find the OWASP Secure Coding Practices Quick Reference Guide Project
+WE hope you find the OWASP Secure Coding Practices Quick Reference Guide Project
 useful. Please contribute to the Project by sending your comments, questions,
-and suggestions to [keith.turpin@owasp.org].
-
-Project mailing list and archives: [subscription
-page.](https://lists.owasp.org/mailman/listinfo/owasp-secure-coding-practices)
+and suggestions to [Keith Turpin][keith] and [Jon Gadsden][jon].
 
 ## Related Work
 
@@ -46,13 +43,14 @@ page.](https://lists.owasp.org/mailman/listinfo/owasp-secure-coding-practices)
 
 * This slide deck incorporates many concepts from the Quick reference guide, but
   also utilizes other OWASP resources. [Web Application Development Dos and
-  Donts - Presentation from the Royal Bank of Scotland][dosdonts]
+  Donts][dosdonts] - presentation by the Royal Bank of Scotland
 
 ### Projects
 
-* [Go programming language secure coding practices guide, based on the OWASP
-  Secure Coding Practices][owaspgoscp]
+* [Go programming language secure coding practices guide][owaspgoscp], based on the OWASP
+  Secure Coding Practices
 
-[keith.turpin@owasp.org]: mailto:Keith.Turpin@owasp.org
+[keith]: mailto:Keith.Turpin@owasp.org
+[jon]: mailto:jon.gadsden@owasp.org
 [dosdonts]: https://www.owasp.org/images/b/ba/Web_Application_Development_Dos_and_Donts.ppt
 [owaspgoscp]: https://www2.owasp.org/www-project-go-secure-coding-practices-guide/
