@@ -8,9 +8,10 @@ tags: contributors
 
 If you contribute to this Project, please add your name here.
 
-## Project Lead
+## Project Leaders
 
 * [Keith Turpin](mailto:Keith.Turpin@owasp.org)
+* [Jon Gadsden](mailto:jon.gadsden@owasp.org)
 
 ## Contributors
 

@@ -2,7 +2,7 @@
 
 [![Builders][builders-logo]][builders]
 
-[![CC BY-SA 3.0][license-logo]{:width="175px"}][license]
+[![CC BY-SA 3.0][license-logo]][license]
 
 ### Downloads
 
@@ -10,9 +10,6 @@
 * [v1.1 (last reviewed)][v11PDF]
 * [Other versions/languages][ovl]
 
-### Links
-
-* [Project Archive][archive]
 
 [doc-proj-logo]: https://raw.githubusercontent.com/OWASP/www--site-theme/master/assets/images/common/owasp_documentation_project.svg?sanitize=true
 [builders]: https://www.owasp.org/index.php/Builders
