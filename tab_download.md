@@ -3,7 +3,7 @@ title: Download
 layout:  null
 tab: true
 order: 1
-tags: downloads-tag
+tags: downloads
 ---
 
 ## v2 (current release)
