@@ -1,8 +1,13 @@
+[![Incubator Project][inc-proj-logo]{:height="66px"}][inc-proj]
+
 ![Documentation Project][doc-proj-logo]
 
 [![Builders][builders-logo]][builders]
+[![Defenders][defenders-logo]][defenders]
 
-[![CC-BY-SA][license-logo]][license]
+### Licence
+
+[![CC BY-SA 3.0][license-logo]][license]
 
 ### Downloads
 
@@ -10,12 +15,20 @@
 * [v1.1 (last reviewed)][v11PDF]
 * [Other versions/languages][ovl]
 
+### Related Projects
 
-[doc-proj-logo]: https://raw.githubusercontent.com/OWASP/www--site-theme/master/assets/images/common/owasp_documentation_project.svg?sanitize=true
+* [OWASP Go Secure Coding Practices Guide][owasp-go-scp]
+
+[doc-proj-logo]: assets/images/common/owasp_documentation_project.svg
 [builders]: https://www.owasp.org/index.php/Builders
 [builders-logo]: assets/images/common/owasp_builders.svg
+[defenders]: https://www.owasp.org/index.php/Defenders
+[defenders-logo]: assets/images/common/owasp_defenders.svg
+[inc-proj]: https://www.owasp.org/index.php/OWASP_Project_Stages#tab=Incubator_Projects
+[inc-proj-logo]: assets/images/common/owasp_level_incubator.svg
 [license]: http://creativecommons.org/licenses/by-sa/3.0/
-[license-logo]: https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg
-[v2PDF]: http://www.owasp.org/index.php/File:OWASP_SCP_Quick_Reference_Guide_v2.pdf
-[v11PDF]: http://www.owasp.org/images/2/2f/OWASP_SCP_Quick_Reference_Guide_v1-1b.pdf
+[license-logo]: assets/images/by-sa.svg
+[v2PDF]: https://owasp.org/www-pdf-archive/OWASP_SCP_Quick_Reference_Guide_v2.pdf
+[v11PDF]: https://www.owasp.org/images/2/2f/OWASP_SCP_Quick_Reference_Guide_v1-1b.pdf
 [ovl]: https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/#div-download
+[owasp-go-scp]: https://owasp.org/www-project-go-secure-coding-practices-guide/
