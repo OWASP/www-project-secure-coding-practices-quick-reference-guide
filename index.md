@@ -6,7 +6,7 @@ level: 2
 type: documentation
 ---
 
-## Welcome to the Secure Coding Practices Quick Reference Guide Project
+### Welcome to the Secure Coding Practices Quick Reference Guide Project
 
 The Secure Coding Practices Quick Reference Guide is a technology agnostic set
 of general software security coding practices, in a comprehensive checklist
@@ -19,7 +19,7 @@ glossary of key terms.
 It is designed to serve as a secure coding kick-start tool and easy reference,
 to help development teams quickly understand secure coding practices.
 
-## Sections of the Guide
+### Sections of the Guide
 
 * Table of contents
 * Introduction
@@ -30,13 +30,13 @@ to help development teams quickly understand secure coding practices.
 
 -----
 
-## Feedback and Participation
+#### Feedback and Participation
 
-WE hope you find the OWASP Secure Coding Practices Quick Reference Guide Project
+We hope you find the OWASP Secure Coding Practices Quick Reference Guide Project
 useful. Please contribute to the Project by sending your comments, questions,
 and suggestions to [Keith Turpin][keith] and [Jon Gadsden][jon].
 
-## Related Projects
+#### Related Projects
 
 * [Go programming language secure coding practices guide][owaspgoscp], based on the OWASP
   Secure Coding Practices
