@@ -1,7 +1,7 @@
 # OWASP Foundation Homepage for the Secure Coding Practices Quick-reference Guide
 
 This repo is the source for the [OWASP SCP project web pages](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/).
-The content has been migrated from the original [OWASP wiki](https://owasp.slack.com/archives/D04EA2G7S1X/p1670322078706949) page.
+The content has been migrated from the original [OWASP wiki](https://wiki.owasp.org/index.php/OWASP_Secure_Coding_Practices_-_Quick_Reference_Guide) page.
 
 For any improvements to these pages please create an issue or open a pull request - we will make sure to respond quickly.
 
