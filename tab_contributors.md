@@ -2,8 +2,8 @@
 title: Contributors
 layout:  null
 tab: true
-order: 1
-tags: contributors-tag
+order: 2
+tags: contributors
 ---
 
 If you contribute to this Project, please add your name here.
