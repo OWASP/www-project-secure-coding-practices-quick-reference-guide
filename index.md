@@ -1,7 +1,7 @@
 ---
 layout: col-sidebar
 title: OWASP Secure Coding Practices-Quick Reference Guide
-tags: downloads contributors
+tags: documentation contributing
 level: 2
 type: documentation
 ---
@@ -21,10 +21,9 @@ to help development teams quickly understand secure coding practices.
 
 ### Sections of the Guide
 
-* Table of contents
 * Introduction
-* Software Security Principles Overview
-* Secure Coding Practices Checklist
+* Software security principles overview
+* Secure coding practices checklist
 * Links to useful resources
 * Glossary of important terminology
 
@@ -33,8 +32,11 @@ to help development teams quickly understand secure coding practices.
 #### Feedback and Participation
 
 We hope you find the OWASP Secure Coding Practices Quick Reference Guide Project
-useful. Please contribute to the Project by sending your comments, questions,
-and suggestions to [Keith Turpin][keith] and [Jon Gadsden][jon].
+useful. We welcome additions and corrections to the existing documents,
+and the [project github repo][github] is always looking for collaborators.
+
+Please contribute to this project by adding your comments, questions,
+and suggestions using the project github [change request][change] form.
 
 #### Related Projects
 
@@ -43,4 +45,6 @@ and suggestions to [Keith Turpin][keith] and [Jon Gadsden][jon].
 
 [keith]: mailto:Keith.Turpin@owasp.org
 [jon]: mailto:jon.gadsden@owasp.org
+[change]: https://github.com/OWASP/secure-coding-practices-quick-reference-guide/issues/new?assignees=&labels=enhancement&template=request.md&title=
+[github]: https://github.com/OWASP/secure-coding-practices-quick-reference-guide
 [owaspgoscp]: https://owasp.org/www-project-go-secure-coding-practices-guide/
