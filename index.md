@@ -1,7 +1,7 @@
 ---
 layout: col-sidebar
 title: OWASP Secure Coding Practices-Quick Reference Guide
-tags: documentation contributing
+tags: downloads contributors archive
 level: 2
 type: documentation
 ---
