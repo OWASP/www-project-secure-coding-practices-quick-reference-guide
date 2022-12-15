@@ -1,4 +1,6 @@
 __pycache__
 env
+.project
 .vscode
 _site/
+
