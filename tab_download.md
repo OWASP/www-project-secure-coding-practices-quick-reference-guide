@@ -54,27 +54,29 @@ tags: downloads
 * [Slide deck][appsecusa10]- Presented by Keith Turpin on OWASP AppSec USA 2010
 * [Archive XLS Feedback Spreadsheet][fbsh]
 
+[br201ebook]: https://github.com/OWASP/secure-coding-practices-quick-reference-guide/releases/download/v2.0.1/OWASP_SCP_Quick_Reference_Guide.pt-BR.epub
+[br201pdf]: https://github.com/OWASP/secure-coding-practices-quick-reference-guide/releases/download/v2.0.1/OWASP_SCP_Quick_Reference_Guide.pt-BR.pdf
 [br13pdf]: https://owasp.org/www-pdf-archive/OWASP_SCP_v1.3_pt-BR.pdf
 [cn10pdf]: https://owasp.org/www-pdf-archive//OWASP_SCP_Quick_Reference_Guide_(Chinese).pdf
-[cn201ebook]: 
-[cn201pdf]: 
+[cn201ebook]: https://github.com/OWASP/secure-coding-practices-quick-reference-guide/releases/download/v2.0.1/OWASP_SCP_Quick_Reference_Guide.zh-CN.epub
+[cn201pdf]: https://github.com/OWASP/secure-coding-practices-quick-reference-guide/releases/download/v2.0.1/OWASP_SCP_Quick_Reference_Guide.zh-CN.pdf
 [en10pdf]: https://owasp.org/www-pdf-archive/OWASP_SCP_Quick_Reference_Guide_v1.pdf
 [en10doc]: https://wiki.owasp.org/images/1/10/OWASP_SCP_Quick_Reference_Guide_v1.doc
 [en11pdf]: http://www.owasp.org/images/2/2f/OWASP_SCP_Quick_Reference_Guide_v1-1b.pdf
 [en11doc]: http://wiki.owasp.org/images/0/0b/OWASP_SCP_Quick_Reference_Guide_v1-1b.doc
 [en20pdf]: https://owasp.org/www-pdf-archive/OWASP_SCP_Quick_Reference_Guide_v2.pdf
 [en20doc]: https://wiki.owasp.org/images/a/ac/OWASP_SCP_Quick_Reference_Guide_v2.doc
-[en201ebook]: 
-[en201pdf]: 
+[en201ebook]: https://github.com/OWASP/secure-coding-practices-quick-reference-guide/releases/download/v2.0.1/OWASP_SCP_Quick_Reference_Guide.en-US.epub
+[en201pdf]: https://github.com/OWASP/secure-coding-practices-quick-reference-guide/releases/download/v2.0.1/OWASP_SCP_Quick_Reference_Guide.en-US.pdf
 [es10doc]: https://wiki.owasp.org/images/c/c8/OWASP_SCP_Quick_Reference_Guide_SPA.doc
-[es201ebook]: 
-[es201pdf]: 
+[es201ebook]: https://github.com/OWASP/secure-coding-practices-quick-reference-guide/releases/download/v2.0.1/OWASP_SCP_Quick_Reference_Guide.es-UY.epub
+[es201pdf]: https://github.com/OWASP/secure-coding-practices-quick-reference-guide/releases/download/v2.0.1/OWASP_SCP_Quick_Reference_Guide.es-UY.pdf
 [ko20pdf]: https://owasp.org/www-pdf-archive//2011%EB%85%846%EC%9B%94_OWASP_%EC%8B%9C%ED%81%90%EC%96%B4%EC%BD%94%EB%94%A9%EA%B7%9C%EC%B9%99_v2_KOR.pdf
-[ko201ebook]: 
-[ko201pdf]: 
+[ko201ebook]: https://github.com/OWASP/secure-coding-practices-quick-reference-guide/releases/download/v2.0.1/OWASP_SCP_Quick_Reference_Guide.ko-KR.epub
+[ko201pdf]: https://github.com/OWASP/secure-coding-practices-quick-reference-guide/releases/download/v2.0.1/OWASP_SCP_Quick_Reference_Guide.ko-KR.pdf
 [pt13pdf]: https://owasp.org/www-pdf-archive/OWASP_SCP_v1.3_pt-PT.pdf
-[pt201ebook]: 
-[pt201pdf]: 
+[pt201ebook]: https://github.com/OWASP/secure-coding-practices-quick-reference-guide/releases/download/v2.0.1/OWASP_SCP_Quick_Reference_Guide.pt-PT.epub
+[pt201pdf]: https://github.com/OWASP/secure-coding-practices-quick-reference-guide/releases/download/v2.0.1/OWASP_SCP_Quick_Reference_Guide.pt-PT.pdf
 
 [pamphlet]: https://owasp.org/www-pdf-archive/Flyer_Secure_Coding_Practices_Quick_Reference_Guide_V2.pdf
 [presentation]: https://wiki.owasp.org/images/f/fd/Secure_Coding_Practices_Quick_Ref_6.ppt
