@@ -46,13 +46,13 @@ If you contribute to this Project, please add your name here.
 
 ### Spanish
 
-* Canedo, Gerardo
-* Flores, Mauro
-* [Hill, Alberto](mailto: alberto@albertohill.com)
-* Martinez, Mateo
-* Papaleo, Mauricio
-* Soarez, Nicolás
-* Targetta, Cecilia
+* Gerardo Canedo
+* Mauro Flores
+* [Alberto Hill](mailto: alberto@albertohill.com)
+* Mateo Martinez
+* Mauricio Papaleo
+* Nicolás Soarez
+* Cecilia Targetta
 
 ## Chinese
 
