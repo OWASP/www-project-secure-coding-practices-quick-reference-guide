@@ -5,7 +5,7 @@
 [![Builders][builders-logo]][builders]
 [![Defenders][defenders-logo]][defenders]
 
-[![CC BY-SA 3.0][license-logo]{:width="175px"}][license]
+[![CC BY-SA 4.0][license-logo]{:width="175px"}][license]
 
 ### Code Repository
 
