@@ -20,7 +20,8 @@
 
 ### Related Projects
 
-[OWASP Go Secure Coding Practices Guide][go-scp]
+* [OWASP Go Secure Coding Practices Guide][owaspgoscp]
+* [OWASP developer guide][owaspdevguide]
 
 [doc-proj-logo]: assets/images/common/owasp_documentation_project.svg
 [builders]: https://www.owasp.org/index.php/Builders
@@ -36,4 +37,5 @@
 [v201]: https://github.com/OWASP/secure-coding-practices-quick-reference-guide/releases/tag/v2.0.1
 [v11PDF]: https://www.owasp.org/images/2/2f/OWASP_SCP_Quick_Reference_Guide_v1-1b.pdf
 [ovl]: #div-download
-[go-scp]: https://owasp.org/www-project-go-secure-coding-practices-guide/
+[owaspgoscp]: https://owasp.org/www-project-go-secure-coding-practices-guide/
+[owaspdevguide]: https://owasp.org/www-project-developer-guide/

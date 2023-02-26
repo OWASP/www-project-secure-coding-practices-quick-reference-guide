@@ -22,10 +22,10 @@ to help development teams quickly understand secure coding practices.
 ### Sections of the Guide
 
 * Introduction
-* Software security principles overview
 * Secure coding practices checklist
-* Links to useful resources
+* Software security principles overview
 * Glossary of important terminology
+* Links to useful resources
 
 Key areas covered in the checklist :
 
@@ -55,18 +55,20 @@ and kept up to date by various OWASP contributors and chapters.
 
 We hope you find the OWASP Secure Coding Practices Quick Reference Guide Project
 useful. We welcome additions and corrections to the existing documents,
-and the [project github repo][github] is always looking for collaborators.
+and the [project github repo][github] is always looking for contributors.
 
 Please contribute by adding your comments, questions,
 and suggestions using the project github [change request][change] form.
-You can also contact the editor [Jon Gadsden][jon] for advice on this project.
+You can also contact the [Jon Gadsden][jon] for advice on this project.
 
 #### Related Projects
 
-* Go programming language [secure coding practices guide][go-scp]
+* Go programming language [secure coding practices guide][owaspgoscp]
+* [OWASP developer guide][owaspdevguide]
 
 [keith]: mailto:Keith.Turpin@owasp.org
 [jon]: mailto:jon.gadsden@owasp.org
 [change]: https://github.com/OWASP/secure-coding-practices-quick-reference-guide/issues/new?assignees=&labels=enhancement&template=request.md&title=
 [github]: https://github.com/OWASP/secure-coding-practices-quick-reference-guide
-[go-scp]: https://owasp.org/www-project-go-secure-coding-practices-guide/
+[owaspgoscp]: https://owasp.org/www-project-go-secure-coding-practices-guide/
+[owaspdevguide]: https://owasp.org/www-project-developer-guide/
