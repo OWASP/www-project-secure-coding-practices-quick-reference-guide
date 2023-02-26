@@ -9,17 +9,21 @@ Create issues on this repository **only** for content hosted under this subfolde
 For issues or suggestions related to SCP Quick-reference Guide itself
 then open a new feature request or bug report in the [SCP document repository][doc-project].
 
+#### Editors
+
+* [Gerardo Canedo][gerardo] (español)
+* [Paulo Silva][paulo] (português)
+* [Jon Gadsden][jon] (English)
+
 ### Project leaders
 
 * [Keith Turpin](mailto:Keith.Turpin@owasp.org)
 * [Jon Gadsden](mailto:jon.gadsden@owasp.org)
 
-### Editor
-
-* [Jon Gadsden][jon]
-
 [keith]: mailto:Keith.Turpin@owasp.org
 [jon]: mailto:jon.gadsden@owasp.org
+[gerardo]: mailto:gerardo.canedo@owasp.org
+[paulo]: mailto:paulo.silva@owasp.org
 [doc-project]: https://github.com/OWASP/secure-coding-practices-quick-reference-guide/issues/new/choose
 [original]: https://wiki.owasp.org/index.php/OWASP_Secure_Coding_Practices_-_Quick_Reference_Guide
 [www-project]: https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/
