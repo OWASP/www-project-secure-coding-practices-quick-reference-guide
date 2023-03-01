@@ -59,7 +59,6 @@ and the [project github repo][github] is always looking for contributors.
 
 Please contribute by adding your comments, questions,
 and suggestions using the project github [change request][change] form.
-You can also contact the [Jon Gadsden][jon] for advice on this project.
 
 #### Related Projects
 
@@ -67,7 +66,6 @@ You can also contact the [Jon Gadsden][jon] for advice on this project.
 * [OWASP developer guide][owaspdevguide]
 
 [keith]: mailto:Keith.Turpin@owasp.org
-[jon]: mailto:jon.gadsden@owasp.org
 [change]: https://github.com/OWASP/secure-coding-practices-quick-reference-guide/issues/new?assignees=&labels=enhancement&template=request.md&title=
 [github]: https://github.com/OWASP/secure-coding-practices-quick-reference-guide
 [owaspgoscp]: https://owasp.org/www-project-go-secure-coding-practices-guide/
