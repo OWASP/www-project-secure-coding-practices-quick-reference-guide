@@ -21,7 +21,7 @@
 ### Related Projects
 
 * [OWASP Go Secure Coding Practices Guide][owaspgoscp]
-* [OWASP developer guide][owaspdevguide]
+* [OWASP Developer Guide][owaspdevguide]
 
 [doc-proj-logo]: assets/images/common/owasp_documentation_project.svg
 [builders]: https://www.owasp.org/index.php/Builders
