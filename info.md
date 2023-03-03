@@ -1,11 +1,15 @@
-[![Incubator Project][inc-proj-logo]{:height="66px"}][inc-proj]
+### Classification
 
-![Documentation Project][doc-proj-logo]
+* <i class="fas fa-egg" style="color:#233e81;"></i> Incubator Project
+* <i class="fas fa-book" style="color:#233e81;"></i> Documentation
 
-[![Builders][builders-logo]][builders]
-[![Defenders][defenders-logo]][defenders]
+### Audience
 
-[![CC BY-SA 4.0][license-logo]{:width="175px"}][license]
+* <i class="fas fa-toolbox" style="color:#233e81;"></i> Builder
+
+### License
+
+* [![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/) CC BY-SA 4.0
 
 ### Code Repository
 
@@ -23,16 +27,7 @@
 * [OWASP Go Secure Coding Practices Guide][owaspgoscp]
 * [OWASP Developer Guide][owaspdevguide]
 
-[doc-proj-logo]: assets/images/common/owasp_documentation_project.svg
-[builders]: https://www.owasp.org/index.php/Builders
-[builders-logo]: assets/images/common/owasp_builders.svg
-[defenders]: https://www.owasp.org/index.php/Defenders
-[defenders-logo]: assets/images/common/owasp_defenders.svg
-[inc-proj]: https://www.owasp.org/index.php/OWASP_Project_Stages#tab=Incubator_Projects
-[inc-proj-logo]: assets/images/common/owasp_level_incubator.svg
 [issues]: https://github.com/OWASP/secure-coding-practices-quick-reference-guide/issues
-[license]: http://creativecommons.org/licenses/by-sa/3.0/
-[license-logo]: assets/images/by-sa.svg
 [repo]: https://github.com/OWASP/secure-coding-practices-quick-reference-guide
 [v201]: https://github.com/OWASP/secure-coding-practices-quick-reference-guide/releases/tag/v2.0.1
 [v11PDF]: https://www.owasp.org/images/2/2f/OWASP_SCP_Quick_Reference_Guide_v1-1b.pdf

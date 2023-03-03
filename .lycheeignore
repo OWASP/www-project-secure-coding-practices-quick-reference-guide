@@ -1,8 +1,5 @@
 # ignore these falae positives from the link checker housekeeper
 
-# for some reason does not like the svg in assets
-assets/images/common/*.svg
-
 # these are know broken links that we preserve in the archive
 www.owasp.org/images/6/64/SCP-QRG_Revisions_History.xls
 www.owasp.org/images/b/ba/Web_Application_Development_Dos_and_Donts.ppt
