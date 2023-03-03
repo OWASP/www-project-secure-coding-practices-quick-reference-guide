@@ -55,9 +55,8 @@ practices.
 **Related Presentations:**
 This slide deck incorporates many concepts from the Quick reference
 guide, but also utilizes other OWASP resources.
-[Web Application Development Dos and Donts - Presentation from the Royal
-Bank of
-Scotland](https://www.owasp.org/images/b/ba/Web_Application_Development_Dos_and_Donts.ppt)
+Web Application Development Dos and Donts - Presentation from the Royal
+Bank of Scotland (broken link to www.owasp.org/images/b/ba/Web_Application_Development_Dos_and_Donts.ppt)
 
 **Related Projects:**
 [Go programming language secure coding practices guide, based on the
@@ -65,8 +64,7 @@ OWASP Secure Coding Practices](https://github.com/Checkmarx/Go-SCP)
 
 **Project Feedback and Disposition History**
 
-[XLS Feedback
-Spreadsheet](http://www.owasp.org/images/6/64/SCP-QRG_Revisions_History.xls)
+XLS Feedback Spreadsheet (broken link to www.owasp.org/images/6/64/SCP-QRG_Revisions_History.xls)
 
 -----
 
