@@ -1,4 +1,4 @@
-name: Housekeeping
+name: housekeeping
 on:
   # Run daily at 7:00
   schedule:
@@ -29,6 +29,8 @@ jobs:
       - name: Link Checker
         uses: lycheeverse/lychee-action@v1.6.1
         with:
+          # skip the archive file, as it is full of broken links
+          args: --verbose --exclude-path './tab_archive.md'
           fail: true
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
