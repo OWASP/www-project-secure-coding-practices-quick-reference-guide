@@ -4,3 +4,7 @@
 www.owasp.org/images/6/64/SCP-QRG_Revisions_History.xls
 www.owasp.org/images/b/ba/Web_Application_Development_Dos_and_Donts.ppt
 
+# the jekyll scripts sometimes upset lychee:
+_includes/breadcrumb.html
+_includes/navigation.html
+
