@@ -1,0 +1,17 @@
+docs_list_title:  Secure Coding Practice Quick-reference Guide Contents (Draft)
+docs:
+
+- title: '1. Introduction'
+  url: 01-introduction/05-introduction
+
+- title: '2. Checklist'
+  url: 02-checklist/05-checklist
+
+- title: 'Appendix A. Overview'
+  url: 03-appendices/03-overview
+
+- title: 'Appendix B. Glossary'
+  url: 03-appendices/05-glossary
+
+- title: 'Appendix C. External references'
+  url: 03-appendices/07-references
