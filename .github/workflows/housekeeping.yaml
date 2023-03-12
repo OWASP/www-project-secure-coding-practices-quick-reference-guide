@@ -29,8 +29,8 @@ jobs:
       - name: Link Checker
         uses: lycheeverse/lychee-action@v1.6.1
         with:
-          # skip the archive file, as it is full of broken links, and skip script files
-          args: --verbose --exclude-path './tab_archive.md' '_includes/navigation.html' '_includes/breadcrumb.html' -- './**/*.md' './**/*.html'
+          # skip the archive file as it is full of broken links
+          args: --exclude-path './tab_archive.md' './**/*.md'
           fail: true
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
