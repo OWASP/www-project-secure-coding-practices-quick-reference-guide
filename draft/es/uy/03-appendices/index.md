@@ -7,8 +7,8 @@ tags: SCP-QRG
 ---
 
 {% include breadcrumb.html %}
-### Appendix A. [Visión general](03-overview)
+### Appendix A. [Visión general](03-overview.markdown)
 
-### Appendix B. [Glosario](05-glossary)
+### Appendix B. [Glosario](05-glossary.markdown)
 
-### Appendix C. [Referencias externas](07-references)
+### Appendix C. [Referencias externas](07-references.markdown)

@@ -7,8 +7,8 @@ tags: SCPQRG
 ---
 
 {% include breadcrumb.html %}
-### Appendix A. [Overview](03-overview)
+### Appendix A. [Overview](03-overview.markdown)
 
-### Appendix B. [Glossary](05-glossary)
+### Appendix B. [Glossary](05-glossary.markdown)
 
-### Appendix C. [External References](07-references)
+### Appendix C. [External References](07-references.markdown)
