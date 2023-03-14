@@ -1,0 +1,24 @@
+name: CI pipeline
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+  
+  link_checker:
+    name: link checker
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3.3.0
+
+      - name: Link Checker
+        uses: lycheeverse/lychee-action@v1.6.1
+        with:
+          # skip the archive file as it is full of broken links
+          args: --exclude-path './tab_archive.md' './**/*.md'
+          fail: true
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
