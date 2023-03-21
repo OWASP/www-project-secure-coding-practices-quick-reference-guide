@@ -1,1 +1,1 @@
-{% include navigation.html collection="stable" %}
+{% include navigation.html collection="draft" %}
