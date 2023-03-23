@@ -23,10 +23,6 @@ tags: SCP-QRG
 
 > <https://cwe.mitre.org/>
 
--   Department of Homeland Security: Build Security In Portal
-
-> <https://www.cisa.gov/uscert/bsi>
-
 -   CERT Secure Coding
 
 > <http://www.cert.org/secure-coding/>
@@ -44,10 +40,6 @@ infrastructure and frameworks
 > Secunia Citrix Vulnerability List:
 
 -   <https://www.flexera.com/products/software-vulnerability-research/secunia-research>
-
-> Security Focus Vulnerability Search (archived):
-
--   <https://bugtraq.securityfocus.com/archive>
 
 > Common Vulnerability Enumeration:
 
