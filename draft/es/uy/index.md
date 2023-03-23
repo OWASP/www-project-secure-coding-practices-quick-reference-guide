@@ -13,12 +13,12 @@ order: 0
 {% include breadcrumb.html %}
 ## Table of Contents
 
-### 1. [Introducción](01-introduction/05-introduction)
+### 1. [Introducción](01-introduction/05-introduction.md)
 
-### 2. [Lista de verificación](02-checklist/05-checklist)
+### 2. [Lista de verificación](02-checklist/05-checklist.md)
 
-### Appendix A. [Visión general](03-appendices/03-overview)
+### Appendix A. [Visión general](03-appendices/03-overview.md)
 
-### Appendix B. [Glosario](03-appendices/05-glossary)
+### Appendix B. [Glosario](03-appendices/05-glossary.md)
 
-### Appendix C. [Referencias externas](03-appendices/07-references)
+### Appendix C. [Referencias externas](03-appendices/07-references.md)

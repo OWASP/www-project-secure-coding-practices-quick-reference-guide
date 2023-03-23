@@ -11,8 +11,8 @@ order: 0
 ---
 
 {% include breadcrumb.html %}
-### Appendix A. [Overview](03-overview)
+### Appendix A. [Overview](03-overview.md)
 
-### Appendix B. [Glossary](05-glossary)
+### Appendix B. [Glossary](05-glossary.md)
 
-### Appendix C. [External References](07-references)
+### Appendix C. [External References](07-references.md)
