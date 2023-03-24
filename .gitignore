@@ -2,20 +2,20 @@
 *
 
 # allow github, workflows and templates
-.github/**/*
-.gitignore
-.lycheeignore
+!.github/**/*
+!.gitignore
+!.lycheeignore
 
 # allow markdown and the assets
-./*.md
-assets/images/*
-stable/**/.*.md
-draft/**/*.md
+!./*.md
+!assets/images/*
+!stable/**/.*.md
+!draft/**/*.md
 
 # allow jekyll build files
-404.html
-Gemfile
-_config.yml
-_data/*.yaml
-_includes/*.html
+!404.html
+!Gemfile
+!_config.yml
+!_data/*.yaml
+!_includes/*.html
 
