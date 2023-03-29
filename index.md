@@ -66,7 +66,7 @@ and suggestions using the project github [change request][change] form.
 * [OWASP developer guide][owaspdevguide]
 
 [keith]: mailto:Keith.Turpin@owasp.org
-[change]: https://github.com/OWASP/secure-coding-practices-quick-reference-guide/issues/new?assignees=&labels=enhancement&template=request.md&title=
-[github]: https://github.com/OWASP/secure-coding-practices-quick-reference-guide
+[change]: https://github.com/OWASP/www-project-secure-coding-practices-quick-reference-guide/issues/new?assignees=&labels=enhancement&template=request.md&title=
+[github]: https://github.com/OWASP/www-project-secure-coding-practices-quick-reference-guide
 [owaspgoscp]: https://owasp.org/www-project-go-secure-coding-practices-guide/
 [owaspdevguide]: https://owasp.org/www-project-developer-guide/
