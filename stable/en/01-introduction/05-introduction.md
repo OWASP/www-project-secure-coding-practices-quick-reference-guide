@@ -1,7 +1,7 @@
 ---
 
 layout: col-document
-title: Secure Coding Practices - Draft
+title: Secure Coding Practices
 tags: SCP-QRG
 
 ---

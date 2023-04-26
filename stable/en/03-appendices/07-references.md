@@ -1,17 +1,17 @@
 ---
 
 layout: col-document
-title: Secure Coding Practices - Draft
+title: Secure Coding Practices
 tags: SCP-QRG
 
 ---
 
 {% include breadcrumb.html %}
-# Apéndice C: Referencias externas
+# Appendix C: External References
 
-## Referencia citada
+## Cited References
 
--   SANS CIS Controls version 8
+- SANS CIS Controls version 8
 
 > <https://www.sans.org/blog/cis-controls-v8/>
 
@@ -31,10 +31,11 @@ tags: SCP-QRG
 
 > <http://msdn.microsoft.com/en-us/security/default.aspx>
 
-## Sitios recomendados sobre Seguridad
 
-Fuentes útiles para verificar vulnerabilidades comunes sobre la
-infraestructura soporte y frameworks
+## Security Advisory Sites
+
+Useful resources to check for known vulnerabilities against supporting
+infrastructure and frameworks
 
 > Secunia Citrix Vulnerability List:
 

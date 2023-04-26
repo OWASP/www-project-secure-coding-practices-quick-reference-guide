@@ -7,16 +7,7 @@
 
     {% if page.url contains "/stable/" or page.url contains site.stable_version %}
     <div style="background-color:#9ce37d;color:#344d2a;padding:8px 20px 8px;">
-        You're viewing the current stable version of the Secure Coding Practice Quick-reference Guide project.
+        You're viewing the current stable version of the Secure Coding Practice Quick-reference Guide project
     </div>
-    {% endif %}
-
-    {% if page.url contains "/v" %}
-      {% unless page.url contains site.stable_version %}
-      <div style="background-color:#f7ee7f;color:#666334;padding:8px 20px 8px;">
-          You're viewing a released version of the Secure Coding Practice Quick-reference Guide project.
-          For the latest work in progress <a href="{{ site.base_url }}/www-project-secure-coding-practices-quick-reference-guide/draft/">visit draft</a>
-      </div>
-      {% endunless %}
     {% endif %}
 </div>

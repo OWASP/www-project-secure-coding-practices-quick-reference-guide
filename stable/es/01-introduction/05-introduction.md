@@ -1,13 +1,5 @@
----
-
-layout: col-document
-title: Secure Coding Practices - Draft
-tags: SCP-QRG
-
----
-
-{% include breadcrumb.html %}
-# Introducción
+\newpage
+# Introducción {#introduction .list-paragraph}
 
 El presente documento define un conjunto de prácticas comunes de
 codificación de software, tecnológicamente agnósticas, en formato de
@@ -74,5 +66,3 @@ seguro, sin embargo, se recomiendan las siguientes prácticas y recursos:
 [asvs]: https://owasp.org/www-project-application-security-verification-standard/
 [esapi]: https://owasp.org/www-project-enterprise-security-api/
 [guide]: https://owasp.org/www-project-developer-guide/
-
-\newpage
