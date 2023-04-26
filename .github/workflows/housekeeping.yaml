@@ -17,17 +17,17 @@ jobs:
         with:
           token: ${{ github.token }}
           repository: ${{ github.repository }}
-          retain_days: 182
+          retain_days: 28
           keep_minimum_runs: 20
 
   link_checker:
     name: link checker
     runs-on: ubuntu-22.04
     steps:
-      - uses: actions/checkout@v3.4.0
+      - uses: actions/checkout@v3.5.2
 
       - name: Link Checker
-        uses: lycheeverse/lychee-action@v1.6.1
+        uses: lycheeverse/lychee-action@v1.7.0
         with:
           # skip the archive file as it is full of broken links
           args: --exclude-path './tab_archive.md' './**/*.md'
