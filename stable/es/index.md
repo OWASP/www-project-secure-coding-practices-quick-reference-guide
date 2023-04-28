@@ -12,7 +12,7 @@ document: OWASP Secure Coding Practices - Quick Reference Guide
 
 ### 1. [Introducción](01-introduction/05-introduction.md)
 
-### 2. [Lista de Verificación de Prácticas de Codificación Segura]](02-checklist/05-checklist.md)
+### 2. [Lista de Verificación de Prácticas de Codificación Segura](02-checklist/05-checklist.md)
 
 ### Apéndice A. [Visión General](03-appendices/03-overview.md)
 

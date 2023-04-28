@@ -1,59 +1,59 @@
-docs_list_title:  Secure Coding Practice Quick-reference Guide (Stable)
+docs_list_title:  Prácticas de Codificación Segura - Guía rápida de referencia
 docs:
 
-- title: '1. Introduction'
+- title: '1. Introducción'
   url: 01-introduction/05-introduction
 
-- title: '2. Checklist'
+- title: '2. Lista de Verificación'
   url: 02-checklist/05-checklist
 
-- title: '2.1 Input validation'
+- title: '2.1 Validación de entradas'
   url: 02-checklist/05-checklist#input-validation
 
-- title: '2.2 Output encoding'
+- title: '2.2 Codificación de salidas'
   url: 02-checklist/05-checklist#output-encoding
 
-- title: '2.3 Authentication and password management'
+- title: '2.3 Gestión de autenticación y contraseñas'
   url: 02-checklist/05-checklist#authentication-and-password-management
 
-- title: '2.4 Session management'
+- title: '2.4 Gestión de sesiones'
   url: 02-checklist/05-checklist#session-management
 
-- title: '2.5 Access control'
+- title: '2.5 Control de acceso'
   url: 02-checklist/05-checklist#access-control
 
-- title: '2.6 Cryptographic practices'
+- title: '2.6 Prácticas critpográficas'
   url: 02-checklist/05-checklist#cryptographic-practices
 
-- title: '2.7 Error handling and logging'
+- title: '2.7 Gestión de errores y registros (logs)'
   url: 02-checklist/05-checklist#error-handling-and-logging
 
-- title: '2.8 Data protection'
+- title: '2.8 Protección de datos'
   url: 02-checklist/05-checklist#data-protection
 
-- title: '2.9 Communication security'
+- title: '2.9 Seguridad en las comunicaciones'
   url: 02-checklist/05-checklist#communication-security
 
-- title: '2.10 System configuration'
+- title: '2.10 Configuración de los sistemas'
   url: 02-checklist/05-checklist#system-configuration
 
-- title: '2.11 Database security'
+- title: '2.11 Seguridad de Base de Datos'
   url: 02-checklist/05-checklist#database-security
 
-- title: '2.12 File management'
+- title: '2.12 Gestión de Archivos'
   url: 02-checklist/05-checklist#file-management
 
-- title: '2.13 Memory management'
+- title: '2.13 Gestión de Memoria'
   url: 02-checklist/05-checklist#memory-management
 
-- title: '2.14 General coding practices'
+- title: '2.14 Practicas Generales para la Codificación'
   url: 02-checklist/05-checklist#general-coding-practices
 
-- title: 'Appendix A. Overview'
+- title: 'Apéndice A. Visión General'
   url: 03-appendices/03-overview
 
-- title: 'Appendix B. Glossary'
+- title: 'Apéndice B. Glosario'
   url: 03-appendices/05-glossary
 
-- title: 'Appendix C. External references'
+- title: 'Apéndice C. Referencias externas'
   url: 03-appendices/07-references

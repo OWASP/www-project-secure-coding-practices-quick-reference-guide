@@ -1,1 +1,1 @@
-{% include navigation.html collection="stable-en" %}
+{% include navigation.html collection="stable/en" %}
