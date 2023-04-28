@@ -1,12 +1,9 @@
 ---
 
 layout: col-document
-title: Secure Coding Practices - Draft
+title: Secure Coding Practices
 tags: SCPQRG
-author:
-contributors:
 document: OWASP Secure Coding Practices - Quick Reference Guide
-order: 0
 
 ---
 
