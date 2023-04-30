@@ -3,6 +3,7 @@
 layout: col-document
 title: Secure Coding Practices
 tags: SCP-QRG
+document: OWASP Secure Coding Practices - Quick Reference Guide
 
 ---
 

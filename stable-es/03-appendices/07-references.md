@@ -3,6 +3,7 @@
 layout: col-document
 title: Prácticas de Codificación Segura
 tags: SCP-QRG
+document: Prácticas de Codificación Segura - Guía rápida de referencia
 
 ---
 

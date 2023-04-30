@@ -1,14 +1,14 @@
 ---
 
 layout: col-document
-title: Secure Coding Practices
+title: Prácticas de Codificación Segura
 tags: SCPQRG
-document: OWASP Secure Coding Practices - Quick Reference Guide
+document: Prácticas de Codificación Segura - Guía rápida de referencia
 
 ---
 
 {% include breadcrumb.html %}
-## Table of Contents
+## Índice
 
 ### 1. [Introducción](01-introduction/05-introduction.md)
 
