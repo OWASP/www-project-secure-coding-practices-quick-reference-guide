@@ -19,7 +19,7 @@ tags: SCP-QRG
 
 - [ ]   Use a centralized input validation routine for the whole application
 
-- [ ]   Specify character sets, such as UTF-8, for all input sources
+- [ ]   Specify character sets, such as UTF-8, for all input sources (canonicalization)
 
 - [ ]   Encode input to a common character set before validating
 

@@ -14,22 +14,22 @@
 
 # allow the stable area
 !stable/
-!stable/en/
-!stable/en/.*.md
-!stable/en/01-introduction/
-!stable/en/01-introduction/*.md
-!stable/en/02-checklist/
-!stable/en/02-checklist/*.md
-!stable/en/03-appendices/
-!stable/en/03-appendices/*.md
-!stable/es/
-!stable/es/.*.md
-!stable/es/01-introduction/
-!stable/es/01-introduction/*.md
-!stable/es/02-checklist/
-!stable/es/02-checklist/*.md
-!stable/es/03-appendices/
-!stable/es/03-appendices/*.md
+!stable-en/
+!stable-en/.*.md
+!stable-en/01-introduction/
+!stable-en/01-introduction/*.md
+!stable-en/02-checklist/
+!stable-en/02-checklist/*.md
+!stable-en/03-appendices/
+!stable-en/03-appendices/*.md
+!stable-es/
+!stable-es/.*.md
+!stable-es/01-introduction/
+!stable-es/01-introduction/*.md
+!stable-es/02-checklist/
+!stable-es/02-checklist/*.md
+!stable-es/03-appendices/
+!stable-es/03-appendices/*.md
 !draft/
 
 # allow the draft area

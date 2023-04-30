@@ -1,5 +1,13 @@
-\newpage
-# Apéndice C: Referencias externas {#external-references .list-paragraph}
+---
+
+layout: col-document
+title: Prácticas de Codificación Segura
+tags: SCP-QRG
+
+---
+
+{% include breadcrumb.html %}
+# Apéndice C: Referencias externas
 
 ## Referencias citadas
 
@@ -14,10 +22,6 @@
 - Common Weakness Enumeration (CWE)
 
 > <https://cwe.mitre.org/>
-
-- Department of Homeland Security: Build Security In Portal
-
-> <https://www.cisa.gov/uscert/bsi>
 
 - CERT Secure Coding
 
@@ -35,10 +39,6 @@ infraestructura soporte y frameworks
 > Secunia Citrix Vulnerability List:
 
 - <https://www.flexera.com/products/software-vulnerability-research/secunia-research>
-
-> Security Focus Vulnerability Search (archived):
-
-- <https://bugtraq.securityfocus.com/archive>
 
 > Common Vulnerability Enumeration:
 

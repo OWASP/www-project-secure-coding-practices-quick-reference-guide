@@ -1,5 +1,17 @@
-\newpage
-# Introducción {#introduction .list-paragraph}
+---
+
+layout: col-document
+title: Prácticas de Codificación Segura
+tags: SCP-QRG
+
+---
+
+{% include breadcrumb.html %}
+# Prácticas de Codificación Segura OWASP
+
+## Guía rápida de referencia
+
+## Introducción
 
 El presente documento define un conjunto de prácticas comunes de
 codificación de software, tecnológicamente agnósticas, en formato de
@@ -63,6 +75,29 @@ seguro, sin embargo, se recomiendan las siguientes prácticas y recursos:
     verificación tanto en los request for proposal (RFP) como en los
     contratos.
 
+**Sobre esta versión en español**
+
+Esta versión de la Guía de referencia rápida en español ha sido
+desarrollada como parte de las actividades del capítulo OWASP Uruguay
+para la comunidad de desarrolladores y seguridad informática de habla
+hispana.
+
+Participaron de esta traducción:
+
+*  Canedo,Gerardo
+
+**Copyright y Licencia**
+
+Copyright © 2010-2023 The OWASP Foundation.
+
+Este documento se encuentra bajo la licencia
+Creative Commons Attribution Share Alike  4.0 International [(CC BY-SA 4.0)][CC-BY-SA-4.0].
+Para cualquier reutilización o distribución, debe de indicar claramente los términos de la licencia del presente trabajo.
+
+[CC-BY-SA-4.0]: https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES
+
 [asvs]: https://owasp.org/www-project-application-security-verification-standard/
 [esapi]: https://owasp.org/www-project-enterprise-security-api/
 [guide]: https://owasp.org/www-project-developer-guide/
+
+\newpage
