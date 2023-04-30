@@ -5,6 +5,8 @@
 !.github/
 !.github/workflows/
 !.github/workflows/*.yaml
+!.github/ISSUE_TEMPLATE/
+!.github/ISSUE_TEMPLATE/*.md
 !.gitignore
 !.lycheeignore
 

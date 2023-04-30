@@ -1,8 +1,8 @@
 ---
 name: Change request
-about: Suggest a change for this project
-title: ''
-labels: 'enhancement'
+about: Suggest a change to the project pages
+title: 'Change the project pages'
+labels: 'pages'
 assignees: ''
 
 ---

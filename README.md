@@ -3,11 +3,11 @@
 This repo is the source for the [OWASP SCP project web pages][www-project].
 The content was migrated from the original [OWASP SCP wiki][original] page.
 
+You can [create issues][change] for this repository on the project pages content hosted on this OWASP site.
 For any improvements to these pages please create an issue or open a pull request - we will make sure to respond quickly.
 
-Create issues on this repository **only** for content hosted under this subfolder of the OWASP site.
-For issues or suggestions related to SCP Quick-reference Guide itself
-then open a new feature request or bug report in the [SCP document repository][doc-project].
+For issues or suggestions related to Secure Coding Practices Quick-reference Guide
+documents themselves (Draft, Stable, EN/ES) open a new [documentation specific][change] feature request or bug report.
 
 #### Editors
 
@@ -24,6 +24,6 @@ then open a new feature request or bug report in the [SCP document repository][d
 [jon]: mailto:jon.gadsden@owasp.org
 [gerardo]: mailto:gerardo.canedo@owasp.org
 [paulo]: mailto:paulo.silva@owasp.org
-[doc-project]: https://github.com/OWASP/secure-coding-practices-quick-reference-guide/issues/new/choose
+[change]: https://github.com/OWASP/www-project-secure-coding-practices-quick-reference-guide/issues/new/choose
 [original]: https://wiki.owasp.org/index.php/OWASP_Secure_Coding_Practices_-_Quick_Reference_Guide
 [www-project]: https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/

@@ -6,16 +6,13 @@ level: 2
 type: documentation
 ---
 
-### Welcome to the Secure Coding Practices Quick Reference Guide Project
+### Secure Coding Practices Quick Reference Guide Project
 
 The Secure Coding Practices Quick Reference Guide is a technology agnostic set
 of general software security coding practices, in a comprehensive checklist
 format, that can be integrated into the development life-cycle.
 
-The focus is on secure coding requirements, rather then on vulnerabilities and
-exploits. It includes an introduction to Software Security Principles and a
-glossary of key terms.
-
+The focus is on secure coding requirements, rather then on vulnerabilities or exploits.
 It is designed to serve as a secure coding kick-start tool and easy reference,
 to help development teams quickly understand secure coding practices.
 
@@ -44,10 +41,8 @@ Key areas covered in the checklist :
 * Memory Management
 * General Coding Practices
 
-Originally developed for use inside The Boeing Company, in July 2010 Boeing
-assigned copyright to OWASP under the leadership of [Keith Turpin][keith].
-This guide has been translated into several languages and has been reissued
-and kept up to date by various OWASP contributors and chapters.
+The latest version is available in [English][stable-en] or [español][stable-es]
+with other languages in [earlier versions][ovl] of the guide.
 
 -----
 
@@ -65,8 +60,10 @@ and suggestions using the project github [change request][change] form.
 * Go programming language [secure coding practices guide][owaspgoscp]
 * [OWASP developer guide][owaspdevguide]
 
-[keith]: mailto:Keith.Turpin@owasp.org
-[change]: https://github.com/OWASP/www-project-secure-coding-practices-quick-reference-guide/issues/new?assignees=&labels=enhancement&template=request.md&title=
+[change]: https://github.com/OWASP/www-project-secure-coding-practices-quick-reference-guide/issues/new
 [github]: https://github.com/OWASP/www-project-secure-coding-practices-quick-reference-guide
+[ovl]: #div-download
+[stable-en]: stable-en
+[stable-es]: stable-es
 [owaspgoscp]: https://owasp.org/www-project-go-secure-coding-practices-guide/
 [owaspdevguide]: https://owasp.org/www-project-developer-guide/
