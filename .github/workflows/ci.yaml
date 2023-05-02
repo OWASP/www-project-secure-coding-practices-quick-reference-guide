@@ -30,10 +30,15 @@ jobs:
     runs-on: ubuntu-22.04
     needs: [link_checker]
     steps:
-      - name: Checkout md
+      - name: Checkout markdown
         uses: actions/checkout@v3.4.0
 
-      - name: Create paths
+      - name: Combine markdown
+        run: |
+          tail --lines=+11 --quiet \
+            draft-en/01-introduction/*.md \
+            draft-en/02-checklist/*.md \
+            draft-en/03-appendices/*.md > draft-en.markdown
         run: mkdir -p publish
 
       - name: Export to pdf
@@ -42,22 +47,16 @@ jobs:
           args: >-
             --output=publish/OWASP_SCP_Quick_Reference_Guide.draft.pdf
             draft-en/title.pdf.yaml
-            draft-en/01-introduction/05-introduction.md
-            draft-en/02-checklist/05-checklist.md
-            draft-en/03-appendices/03-overview.md
-            draft-en/03-appendices/05-glossary.md
-            draft-en/03-appendices/07-references.md
+            draft-en.markdown
+
       - name: Export to epub
         uses: docker://pandoc/latex:3.1
         with:
           args: >-
             --output=publish/OWASP_SCP_Quick_Reference_Guide.draft.epub
             draft-en/title.yaml
-            draft-en/01-introduction/05-introduction.md
-            draft-en/02-checklist/05-checklist.md
-            draft-en/03-appendices/03-overview.md
-            draft-en/03-appendices/05-glossary.md
-            draft-en/03-appendices/07-references.md
+            draft-en.markdown
+
       - name: Save pdfs and epubs
         uses: actions/upload-artifact@master
         with:
@@ -69,10 +68,15 @@ jobs:
     runs-on: ubuntu-22.04
     needs: [link_checker]
     steps:
-      - name: Checkout md
+      - name: Checkout markdown
         uses: actions/checkout@v3.4.0
 
-      - name: Create paths
+      - name: Combine markdown
+        run: |
+          tail --lines=+11 --quiet \
+            stable-en/01-introduction/*.md \
+            stable-en/02-checklist/*.md \
+            stable-en/03-appendices/*.md > stable-en.markdown
         run: mkdir -p publish
 
       - name: Export to pdf
@@ -81,22 +85,16 @@ jobs:
           args: >-
             --output=publish/OWASP_SCP_Quick_Reference_Guide.en-US.pdf
             stable-en/title.pdf.yaml
-            stable-en/01-introduction/05-introduction.md
-            stable-en/02-checklist/05-checklist.md
-            stable-en/03-appendices/03-overview.md
-            stable-en/03-appendices/05-glossary.md
-            stable-en/03-appendices/07-references.md
+            stable-en.markdown
+
       - name: Export to epub
         uses: docker://pandoc/latex:3.1
         with:
           args: >-
             --output=publish/OWASP_SCP_Quick_Reference_Guide.en-US.epub
             stable-en/title.yaml
-            stable-en/01-introduction/05-introduction.md
-            stable-en/02-checklist/05-checklist.md
-            stable-en/03-appendices/03-overview.md
-            stable-en/03-appendices/05-glossary.md
-            stable-en/03-appendices/07-references.md
+            stable-en.markdown
+
       - name: Save pdfs and epubs
         uses: actions/upload-artifact@master
         with:
@@ -108,11 +106,16 @@ jobs:
     runs-on: ubuntu-22.04
     needs: [link_checker]
     steps:
-      - name: Checkout md
+      - name: Checkout markdown
         uses: actions/checkout@v3.4.0
 
-      - name: Create paths
-        run: mkdir -p publish
+      - name: Combine markdown
+        run: |
+          tail --lines=+11 --quiet \
+            stable-es/01-introduction/*.md \
+            stable-es/02-checklist/*.md \
+            stable-es/03-appendices/*.md > stable-es.markdown
+          mkdir -p publish
 
       - name: Export to pdf
         uses: docker://pandoc/latex:3.1
@@ -120,22 +123,16 @@ jobs:
           args: >-
             --output=publish/OWASP_SCP_Quick_Reference_Guide.es-UY.pdf
             stable-es/title.pdf.yaml
-            stable-es/01-introduction/05-introduction.md
-            stable-es/02-checklist/05-checklist.md
-            stable-es/03-appendices/03-overview.md
-            stable-es/03-appendices/05-glossary.md
-            stable-es/03-appendices/07-references.md
+            stable-es.markdown
+
       - name: Export to epub
         uses: docker://pandoc/latex:3.1
         with:
           args: >-
             --output=publish/OWASP_SCP_Quick_Reference_Guide.es-UY.epub
             stable-es/title.yaml
-            stable-es/01-introduction/05-introduction.md
-            stable-es/02-checklist/05-checklist.md
-            stable-es/03-appendices/03-overview.md
-            stable-es/03-appendices/05-glossary.md
-            stable-es/03-appendices/07-references.md
+            stable-es.markdown
+
       - name: Save pdfs and epubs
         uses: actions/upload-artifact@master
         with:
