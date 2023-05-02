@@ -1,0 +1,18 @@
+---
+lang: es-UY
+title:
+- type: main
+  text: Prácticas de codificación segura
+- type: subtitle
+  text: Guía rápida de referencia
+creator:
+- role: author
+  text: Open Worldwide Application Security Project (OWASP)
+- role: editor
+  text: Keith Turpin
+- role: translator
+  text: Gerardo Canedo
+version: 2.0.1
+date: febrero de 2023
+rights:  Creative Commons Attribution ShareAlike 4.0 International (CC BY-SA 4.0)
+...

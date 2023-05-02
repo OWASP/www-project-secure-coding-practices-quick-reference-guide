@@ -1,0 +1,16 @@
+---
+lang: en-US
+title:
+- type: main
+  text: Secure Coding Practices
+- type: subtitle
+  text: Quick Reference Guide
+creator:
+- role: author
+  text: Open Worldwide Application Security Project (OWASP)
+- role: editor
+  text: Keith Turpin
+version: Stable
+date: February 2023 onwards
+rights:  Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+...

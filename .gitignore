@@ -17,6 +17,7 @@
 # allow the stable area
 !stable/
 !stable-en/
+!stable-en/title*.yaml
 !stable-en/.*.md
 !stable-en/01-introduction/
 !stable-en/01-introduction/*.md
@@ -25,6 +26,7 @@
 !stable-en/03-appendices/
 !stable-en/03-appendices/*.md
 !stable-es/
+!stable-es/title*.yaml
 !stable-es/.*.md
 !stable-es/01-introduction/
 !stable-es/01-introduction/*.md
@@ -32,17 +34,17 @@
 !stable-es/02-checklist/*.md
 !stable-es/03-appendices/
 !stable-es/03-appendices/*.md
-!draft/
 
 # allow the draft area
-!draft/en/
-!draft/en/.*.md
-!draft/en/01-introduction/
-!draft/en/01-introduction/*.md
-!draft/en/02-checklist/
-!draft/en/02-checklist/*.md
-!draft/en/03-appendices/
-!draft/en/03-appendices/*.md
+!draft-en/
+!draft-en/title*.yaml
+!draft-en/.*.md
+!draft-en/01-introduction/
+!draft-en/01-introduction/*.md
+!draft-en/02-checklist/
+!draft-en/02-checklist/*.md
+!draft-en/03-appendices/
+!draft-en/03-appendices/*.md
 
 # allow jekyll build files
 !404.html
