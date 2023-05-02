@@ -39,7 +39,7 @@ jobs:
             draft-en/01-introduction/*.md \
             draft-en/02-checklist/*.md \
             draft-en/03-appendices/*.md > draft-en.markdown
-        run: mkdir -p publish
+          mkdir -p publish
 
       - name: Export to pdf
         uses: docker://pandoc/latex:3.1
@@ -77,7 +77,7 @@ jobs:
             stable-en/01-introduction/*.md \
             stable-en/02-checklist/*.md \
             stable-en/03-appendices/*.md > stable-en.markdown
-        run: mkdir -p publish
+          mkdir -p publish
 
       - name: Export to pdf
         uses: docker://pandoc/latex:3.1
