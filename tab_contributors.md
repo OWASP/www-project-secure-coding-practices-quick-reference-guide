@@ -10,35 +10,35 @@ If you contribute to this Project, please add your name here.
 
 ## Project Leaders
 
-* [Keith Turpin](mailto:Keith.Turpin@owasp.org)
-* [Jon Gadsden](mailto:jon.gadsden@owasp.org)
+* Keith Turpin
+* [Jon Gadsden][jon-gadsden]
 
 ## Contributors
 
-* [Andrew Petukhov](mailto:petand@lvk.cs.msu.su)
-* [Anurag Agarwal](mailto:anurag.agarwal@yahoo.com)
-* [Brad Causey](mailto:bradcausey@owasp.org)
-* [Caleb McGary](mailto:Caleb.mcgary@gmail.com)
+* Andrew Petukhov
+* Anurag Agarwal
+* Brad Causey
+* Caleb McGary
 * Catherine Spencer
 * Dan Kranz
 * Jason Coleman
-* [Jim Manico](mailto:jim.manico@owasp.org)
-* [Ludovic Petit](mailto:ludovic.petit@owasp.org)
-* [Michael V. Scovetta](mailto:michael.scovetta@gmail.com)
+* Jim Manico
+* Ludovic Petit
+* Michael V. Scovetta
 * Walt Pietrowski
 
 ## Translations
 
 ### Portuguese (PT & BR)
 
-* [Tarcizio Vieira Neto](mailto:tarciziovn@gmail.com)
-* [Alexandre Pupo](mailto:alexandrepupo@yahoo.com.br)
-* [Carlos Serrão](mailto:carlos.serrao@owasp.org)
-* [Jorge Olimpia](mailto:jorgeolimpia@gmail.com)
-* [Leandro Gomes](mailto:leandrock@gmail.com)
-* [Paulo Silva](mailto:me@pauloasilva.com)
-* [Rogério Vicente](mailto:rogeriopvl@gmail.com)
-* [Sílvio Correia Filho](mailto:silviofilhosf@gmail.com)
+* Tarcizio Vieira Neto
+* Alexandre Pupo
+* Carlos Serrão
+* Jorge Olimpia
+* Leandro Gomes
+* Paulo Silva
+* Rogério Vicente
+* Sílvio Correia Filho
 
 ### Korean
 
@@ -48,7 +48,7 @@ If you contribute to this Project, please add your name here.
 
 * Gerardo Canedo
 * Mauro Flores
-* [Alberto Hill](mailto: alberto@albertohill.com)
+* Alberto Hill
 * Mateo Martinez
 * Mauricio Papaleo
 * Nicolás Soarez
@@ -57,5 +57,7 @@ If you contribute to this Project, please add your name here.
 ## Chinese
 
 * Henghui Lin
-* [Jie Wang](mailto:wangj@owasp.org.cn)
+* Jie Wang
 * Yongliang He
+
+[jon-gadsden]: mailto:jon.gadsden@owasp.org

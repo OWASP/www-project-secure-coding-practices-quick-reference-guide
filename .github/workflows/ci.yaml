@@ -14,7 +14,8 @@ jobs:
     name: link checker
     runs-on: ubuntu-22.04
     steps:
-      - uses: actions/checkout@v3.5.2
+      - name: Checkout markdown
+        uses: actions/checkout@v3.5.2
 
       - name: Link Checker
         uses: lycheeverse/lychee-action@v1.6.1
@@ -31,7 +32,7 @@ jobs:
     needs: [link_checker]
     steps:
       - name: Checkout markdown
-        uses: actions/checkout@v3.4.0
+        uses: actions/checkout@v3.5.2
 
       - name: Combine markdown
         run: |
@@ -69,7 +70,7 @@ jobs:
     needs: [link_checker]
     steps:
       - name: Checkout markdown
-        uses: actions/checkout@v3.4.0
+        uses: actions/checkout@v3.5.2
 
       - name: Combine markdown
         run: |
@@ -107,7 +108,7 @@ jobs:
     needs: [link_checker]
     steps:
       - name: Checkout markdown
-        uses: actions/checkout@v3.4.0
+        uses: actions/checkout@v3.5.2
 
       - name: Combine markdown
         run: |
