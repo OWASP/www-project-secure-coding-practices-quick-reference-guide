@@ -59,7 +59,7 @@ jobs:
             draft-en.markdown
 
       - name: Save pdfs and epubs
-        uses: actions/upload-artifact@master
+        uses: actions/upload-artifact@v3.1.2
         with:
           name: en-draft
           path: publish
@@ -97,7 +97,7 @@ jobs:
             stable-en.markdown
 
       - name: Save pdfs and epubs
-        uses: actions/upload-artifact@master
+        uses: actions/upload-artifact@v3.1.2
         with:
           name: en-stable
           path: publish
@@ -135,7 +135,7 @@ jobs:
             stable-es.markdown
 
       - name: Save pdfs and epubs
-        uses: actions/upload-artifact@master
+        uses: actions/upload-artifact@v3.1.2
         with:
           name: es-stable
           path: publish

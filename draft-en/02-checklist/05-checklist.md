@@ -273,7 +273,7 @@ tags: SCP-QRG
 - [ ]   All cryptographic functions used to protect secrets from the
     application user must be implemented on a trusted system
 
-- [ ]   Protect master secrets from unauthorized access
+- [ ]   Protect secrets from unauthorized access
 
 - [ ]   Cryptographic modules should fail securely
 
@@ -313,7 +313,7 @@ tags: SCP-QRG
 
 - [ ]   Restrict access to logs to only authorized individuals
 
-- [ ]   Utilize a master routine for all logging operations
+- [ ]   Utilize a central routine for all logging operations
 
 - [ ]   Do not store sensitive information in logs, including unnecessary
     system details, session identifiers or passwords
