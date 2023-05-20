@@ -9,6 +9,9 @@ For any improvements to these pages please create an issue or open a pull reques
 For issues or suggestions related to Secure Coding Practices Quick-reference Guide
 documents themselves (Draft, Stable, EN/ES) open a new [documentation specific][change] feature request or bug report.
 
+You can contact the development community for this project
+via the OWASP Slack [#project-secure-coding-practices][project] project channel.
+
 #### Editors
 
 * [Gerardo Canedo][gerardo] (español)
@@ -26,4 +29,5 @@ documents themselves (Draft, Stable, EN/ES) open a new [documentation specific][
 [paulo]: mailto:paulo.silva@owasp.org
 [change]: https://github.com/OWASP/www-project-secure-coding-practices-quick-reference-guide/issues/new/choose
 [original]: https://wiki.owasp.org/index.php/OWASP_Secure_Coding_Practices_-_Quick_Reference_Guide
+[project]: https://owasp.slack.com/messages/C04DZ254HFG
 [www-project]: https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/

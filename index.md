@@ -55,6 +55,9 @@ and the [project github repo][github] is always looking for contributors.
 Please contribute by adding your comments, questions,
 and suggestions using the project github [change request][change] form.
 
+The easiest way to get in contact with the development community for this project
+is via the OWASP Slack [#project-secure-coding-practices][project] project channel.
+
 #### Related Projects
 
 * Go programming language [secure coding practices guide][owaspgoscp]
@@ -67,3 +70,4 @@ and suggestions using the project github [change request][change] form.
 [stable-es]: stable-es
 [owaspgoscp]: https://owasp.org/www-project-go-secure-coding-practices-guide/
 [owaspdevguide]: https://owasp.org/www-project-developer-guide/
+[project]: https://owasp.slack.com/messages/C04DZ254HFG
