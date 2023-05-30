@@ -4,13 +4,14 @@ This repo is the source for the [OWASP SCP project web pages][www-project].
 The content was migrated from the original [OWASP SCP wiki][original] page.
 
 You can [create issues][change] for this repository on the project pages content hosted on this OWASP site.
-For any improvements to these pages please create an issue or open a pull request - we will make sure to respond quickly.
+For any improvements to these pages please create an issue or open a pull request
+and we will be sure to respond quickly.
 
 For issues or suggestions related to Secure Coding Practices Quick-reference Guide
 documents themselves (Draft, Stable, EN/ES) open a new [documentation specific][change] feature request or bug report.
 
-You can contact the development community for this project
-via the OWASP Slack [#project-secure-coding-practices][project] project channel.
+You can contact the development community for the secure coding practices project via
+the OWASP [#project-secure-coding-practices][project] slack channel - you may need to [subscribe][invite] first.
 
 #### Editors
 
@@ -20,8 +21,8 @@ via the OWASP Slack [#project-secure-coding-practices][project] project channel.
 
 ### Project leaders
 
-* [Keith Turpin](mailto:Keith.Turpin@owasp.org)
-* [Jon Gadsden](mailto:jon.gadsden@owasp.org)
+* [Keith Turpin][keith]
+* [Jon Gadsden][jon]
 
 [keith]: mailto:Keith.Turpin@owasp.org
 [jon]: mailto:jon.gadsden@owasp.org
@@ -30,4 +31,5 @@ via the OWASP Slack [#project-secure-coding-practices][project] project channel.
 [change]: https://github.com/OWASP/www-project-secure-coding-practices-quick-reference-guide/issues/new/choose
 [original]: https://wiki.owasp.org/index.php/OWASP_Secure_Coding_Practices_-_Quick_Reference_Guide
 [project]: https://owasp.slack.com/messages/C04DZ254HFG
+[invite]: https://owasp.org/slack/invite
 [www-project]: https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/

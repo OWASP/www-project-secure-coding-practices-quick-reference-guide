@@ -42,7 +42,7 @@ Key areas covered in the checklist :
 * General Coding Practices
 
 The latest version is available in [English][stable-en] or [español][stable-es]
-with other languages in [earlier versions][ovl] of the guide.
+with other languages in [earlier versions](#div-download) of the guide.
 
 -----
 
@@ -55,8 +55,8 @@ and the [project github repo][github] is always looking for contributors.
 Please contribute by adding your comments, questions,
 and suggestions using the project github [change request][change] form.
 
-The easiest way to get in contact with the development community for this project
-is via the OWASP Slack [#project-secure-coding-practices][project] project channel.
+The easiest way to get in contact with the development community is via
+the OWASP [#project-secure-coding-practices][project] slack channel - you may need to [subscribe][invite] first.
 
 #### Related Projects
 
@@ -65,7 +65,7 @@ is via the OWASP Slack [#project-secure-coding-practices][project] project chann
 
 [change]: https://github.com/OWASP/www-project-secure-coding-practices-quick-reference-guide/issues/new
 [github]: https://github.com/OWASP/www-project-secure-coding-practices-quick-reference-guide
-[ovl]: #div-download
+[invite]: https://owasp.org/slack/invite
 [stable-en]: stable-en
 [stable-es]: stable-es
 [owaspgoscp]: https://owasp.org/www-project-go-secure-coding-practices-guide/
