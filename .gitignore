@@ -5,13 +5,14 @@
 !.github/
 !.github/workflows/
 !.github/workflows/*.yaml
-!.github/ISSUE_TEMPLATE/
-!.github/ISSUE_TEMPLATE/*.md
+!.github/issue_template/
+!.github/issue_template/*.md
 !.gitignore
 !.lycheeignore
 
 # allow markdown and the assets
 !*.md
+!license.txt
 !assets/images/*
 
 # allow the stable area
