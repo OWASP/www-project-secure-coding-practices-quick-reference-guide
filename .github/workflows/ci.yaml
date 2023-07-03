@@ -21,7 +21,7 @@ jobs:
         uses: lycheeverse/lychee-action@v1.8.0
         with:
           # skip the archive file as it is full of broken links
-          args: --exclude-path './tab_archive.md' './**/*.md'
+          args: --exclude-path './tab_archive.md' '**/*.md' '*.md'
           fail: true
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
