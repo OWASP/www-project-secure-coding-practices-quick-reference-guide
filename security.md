@@ -4,9 +4,6 @@ This project is built on markdown which is used to create binary files , such as
 It is not impossible that a malicious actor could somehow embed malware in the markdown or subvert the document creation process. 
 If you find anything suspicious in either the markdown or pipeline scripts then let us know ASAP and we will fix it as a priority.
 
-Ideally open a [security advisory][advisory] and this will be provided only to the project's admins in strict confidence.
-
-Alternatively send an encrypted email to [Jon Gadsden][mail] to start the secure disclosure process.
+Open a [security advisory][advisory] and this will be provided only to the project's admins and in strict confidence.
 
 [advisory]: https://github.com/OWASP/www-project-secure-coding-practices-quick-reference-guide/security/advisories/new
-[mail]: https://flowcrypt.com/me/jongadsden
