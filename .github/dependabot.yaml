@@ -4,6 +4,8 @@ updates:
     directory: ".github/workflows"
     schedule:
       interval: "daily"
+    # Disable version updates
+    open-pull-requests-limit: 0
     ignore:
       # ignore all (non-security) patch updates
       - dependency-name: "*"
