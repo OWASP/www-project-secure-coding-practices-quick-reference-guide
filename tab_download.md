@@ -6,6 +6,10 @@ order: 1
 tags: downloads
 ---
 
+## v2.1 (Cornucopia)
+
+SCP [Version 2.1][en21pdf] that has the numbering system used in the [Cornucopia project][cornucopia] playing cards.
+
 ## v2.0.1 (current release)
 
 | Language | PDF | eBook |
@@ -52,7 +56,7 @@ tags: downloads
 * [Project Pamphlet][pamphlet]
 * [Project Presentation][presentation]
 * [Slide deck][appsecusa10]- Presented by Keith Turpin on OWASP AppSec USA 2010
-* [Archive XLS Feedback Spreadsheet][fbsh]
+* [Archive XLS Feedback Spreadsheet][feedback]
 
 [br201ebook]: https://github.com/OWASP/secure-coding-practices-quick-reference-guide/releases/download/v2.0.1/OWASP_SCP_Quick_Reference_Guide.pt-BR.epub
 [br201pdf]: https://github.com/OWASP/secure-coding-practices-quick-reference-guide/releases/download/v2.0.1/OWASP_SCP_Quick_Reference_Guide.pt-BR.pdf
@@ -60,6 +64,7 @@ tags: downloads
 [cn10pdf]: https://owasp.org/www-pdf-archive//OWASP_SCP_Quick_Reference_Guide_(Chinese).pdf
 [cn201ebook]: https://github.com/OWASP/secure-coding-practices-quick-reference-guide/releases/download/v2.0.1/OWASP_SCP_Quick_Reference_Guide.zh-CN.epub
 [cn201pdf]: https://github.com/OWASP/secure-coding-practices-quick-reference-guide/releases/download/v2.0.1/OWASP_SCP_Quick_Reference_Guide.zh-CN.pdf
+[en21pdf]: assets/pdfs/OWASP_SCP_Quick_Reference_Guide_v21.pdf
 [en10pdf]: https://owasp.org/www-pdf-archive/OWASP_SCP_Quick_Reference_Guide_v1.pdf
 [en10doc]: https://wiki.owasp.org/images/1/10/OWASP_SCP_Quick_Reference_Guide_v1.doc
 [en11pdf]: http://www.owasp.org/images/2/2f/OWASP_SCP_Quick_Reference_Guide_v1-1b.pdf
@@ -78,7 +83,8 @@ tags: downloads
 [pt201ebook]: https://github.com/OWASP/secure-coding-practices-quick-reference-guide/releases/download/v2.0.1/OWASP_SCP_Quick_Reference_Guide.pt-PT.epub
 [pt201pdf]: https://github.com/OWASP/secure-coding-practices-quick-reference-guide/releases/download/v2.0.1/OWASP_SCP_Quick_Reference_Guide.pt-PT.pdf
 
+[appsecusa10]: https://wiki.owasp.org/images/5/54/Secure_Coding_Practices_Quick_Ref_5.ppt
+[cornucopia]: https://owasp.org/www-project-cornucopia/
+[feedback]: https://wiki.owasp.org/images/6/64/SCP-QRG_Revisions_History.xls
 [pamphlet]: https://owasp.org/www-pdf-archive/Flyer_Secure_Coding_Practices_Quick_Reference_Guide_V2.pdf
 [presentation]: https://wiki.owasp.org/images/f/fd/Secure_Coding_Practices_Quick_Ref_6.ppt
-[appsecusa10]: https://wiki.owasp.org/images/5/54/Secure_Coding_Practices_Quick_Ref_5.ppt
-[fbsh]: https://wiki.owasp.org/images/6/64/SCP-QRG_Revisions_History.xls

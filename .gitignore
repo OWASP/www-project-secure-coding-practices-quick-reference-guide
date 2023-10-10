@@ -13,7 +13,11 @@
 # allow markdown and the assets
 !*.md
 !license.txt
-!assets/images/*
+!assets/
+!assets/images/
+!assets/images/*.svg
+!assets/pdfs/
+!assets/pdfs/*.pdf
 
 # allow the stable area
 !stable/

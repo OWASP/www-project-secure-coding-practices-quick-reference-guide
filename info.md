@@ -18,17 +18,19 @@
 
 ### Downloads
 
+* [Cornucopia version][en21pdf]
 * [Latest version (English)][stable-en]
 * [Latest version (español)][stable-es]
-* [Previous versions/languages][ovl]
+* [Previous versions/languages][previous]
 
 ### Related Projects
 
 * [OWASP Go Secure Coding Practices Guide][owaspgoscp]
 * [OWASP Developer Guide][owaspdevguide]
 
+[en21pdf]: assets/pdfs/OWASP_SCP_Quick_Reference_Guide_v21.pdf
 [issues]: https://github.com/OWASP/secure-coding-practices-quick-reference-guide/issues
-[ovl]: #div-download
+[previous]: https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/#div-download
 [repo]: https://github.com/OWASP/secure-coding-practices-quick-reference-guide
 [stable-en]: stable-en
 [stable-es]: stable-es
