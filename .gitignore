@@ -16,8 +16,9 @@
 !assets/
 !assets/images/
 !assets/images/*.svg
-!assets/pdfs/
-!assets/pdfs/*.pdf
+!assets/docs/
+!assets/docs/*.doc
+!assets/docs/*.pdf
 
 # allow the stable area
 !stable/

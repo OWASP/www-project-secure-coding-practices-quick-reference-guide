@@ -28,7 +28,7 @@
 * [OWASP Go Secure Coding Practices Guide][owaspgoscp]
 * [OWASP Developer Guide][owaspdevguide]
 
-[en21pdf]: assets/pdfs/OWASP_SCP_Quick_Reference_Guide_v21.pdf
+[en21pdf]: assets/docs/OWASP_SCP_Quick_Reference_Guide_v21.pdf
 [issues]: https://github.com/OWASP/secure-coding-practices-quick-reference-guide/issues
 [previous]: https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/#div-download
 [repo]: https://github.com/OWASP/secure-coding-practices-quick-reference-guide

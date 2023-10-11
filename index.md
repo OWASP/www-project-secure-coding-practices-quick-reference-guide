@@ -8,8 +8,8 @@ type: documentation
 
 ## Cornucopia
 
-Here is the [version 2.1][en21pdf] of the Secure Coding Practices quick reference guide
-that has the numbering system used in the [Cornucopia project][cornucopia] playing cards.
+[Version 2.1][en21pdf] of the Secure Coding Practices quick reference guide
+provides the numbering system used in the [Cornucopia project][cornucopia] playing cards.
 
 ### Archived project
 
@@ -24,6 +24,6 @@ this provides a wider audience for the original checklist.
 Contact [Jon Gadsden][jon] for any questions about this move.
 
 [cornucopia]: https://owasp.org/www-project-cornucopia/
-[en21pdf]: assets/pdfs/OWASP_SCP_Quick_Reference_Guide_v21.pdf
+[en21pdf]: assets/docs/OWASP_SCP_Quick_Reference_Guide_v21.pdf
 [jon]: mailto:jon.gadsden@owasp.org
 [owaspdevguide]: https://owasp.org/www-project-developer-guide/

@@ -8,7 +8,11 @@ tags: downloads
 
 ## v2.1 (Cornucopia)
 
-SCP [Version 2.1][en21pdf] that has the numbering system used in the [Cornucopia project][cornucopia] playing cards.
+Version of SCP with a numbering system used by the [Cornucopia project][cornucopia] playing cards.
+
+| Language | PDF | DOC |
+| -------- | :-: | :-: |
+| English | [download][en21pdf] | [download][en21doc] |
 
 ## v2.0.1 (current release)
 
@@ -64,7 +68,6 @@ SCP [Version 2.1][en21pdf] that has the numbering system used in the [Cornucopia
 [cn10pdf]: https://owasp.org/www-pdf-archive//OWASP_SCP_Quick_Reference_Guide_(Chinese).pdf
 [cn201ebook]: https://github.com/OWASP/secure-coding-practices-quick-reference-guide/releases/download/v2.0.1/OWASP_SCP_Quick_Reference_Guide.zh-CN.epub
 [cn201pdf]: https://github.com/OWASP/secure-coding-practices-quick-reference-guide/releases/download/v2.0.1/OWASP_SCP_Quick_Reference_Guide.zh-CN.pdf
-[en21pdf]: assets/pdfs/OWASP_SCP_Quick_Reference_Guide_v21.pdf
 [en10pdf]: https://owasp.org/www-pdf-archive/OWASP_SCP_Quick_Reference_Guide_v1.pdf
 [en10doc]: https://wiki.owasp.org/images/1/10/OWASP_SCP_Quick_Reference_Guide_v1.doc
 [en11pdf]: http://www.owasp.org/images/2/2f/OWASP_SCP_Quick_Reference_Guide_v1-1b.pdf
@@ -73,6 +76,8 @@ SCP [Version 2.1][en21pdf] that has the numbering system used in the [Cornucopia
 [en20doc]: https://wiki.owasp.org/images/a/ac/OWASP_SCP_Quick_Reference_Guide_v2.doc
 [en201ebook]: https://github.com/OWASP/secure-coding-practices-quick-reference-guide/releases/download/v2.0.1/OWASP_SCP_Quick_Reference_Guide.en-US.epub
 [en201pdf]: https://github.com/OWASP/secure-coding-practices-quick-reference-guide/releases/download/v2.0.1/OWASP_SCP_Quick_Reference_Guide.en-US.pdf
+[en21pdf]: assets/docs/OWASP_SCP_Quick_Reference_Guide_v21.pdf
+[en21doc]: assets/docs/OWASP_SCP_Quick_Reference_Guide_v21.doc
 [es10doc]: https://wiki.owasp.org/images/c/c8/OWASP_SCP_Quick_Reference_Guide_SPA.doc
 [es201ebook]: https://github.com/OWASP/secure-coding-practices-quick-reference-guide/releases/download/v2.0.1/OWASP_SCP_Quick_Reference_Guide.es-UY.epub
 [es201pdf]: https://github.com/OWASP/secure-coding-practices-quick-reference-guide/releases/download/v2.0.1/OWASP_SCP_Quick_Reference_Guide.es-UY.pdf
