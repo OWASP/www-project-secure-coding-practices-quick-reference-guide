@@ -17,6 +17,12 @@ The OWASP Secure Coding Practices Quick-reference Guide [project][www-project] h
 
 Contact [Jon Gadsden][jon] for any questions about this move.
 
+The [latest stable Spanish language version](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/stable-en/)
+is available on these OWASP project pages along with
+the [latest stable English language version](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/stable-es/).
+
+There is also a [work in progress English language version](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/draft-en/).
+
 #### Project leader
 
 * [Jon Gadsden][jon]
