@@ -23,6 +23,16 @@ this provides a wider audience for the original checklist.
 
 Contact [Jon Gadsden][jon] for any questions about this move.
 
+### Archived versions
+
+The [latest stable Spanish language version](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/stable-es/)
+along with the [latest English language version](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/stable-en/)
+are still available on these OWASP project pages.
+
+There is also a [work in progress English language version](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/draft-en/)
+that shows the final work before being migrated to the
+[OWASP Developer Guide](https://owasp.org/www-project-developer-guide/draft/06-design/02-web-app-checklist/toc.html).
+
 [cornucopia]: https://owasp.org/www-project-cornucopia/
 [en21pdf]: assets/docs/OWASP_SCP_Quick_Reference_Guide_v21.pdf
 [jon]: mailto:jon.gadsden@owasp.org
